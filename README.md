@@ -3,3 +3,5 @@
 Used in development:
 - React (Hooks)
 - Typescript
+
+[Open example](https://irdy.github.io/thinking-in-react-example/) 
