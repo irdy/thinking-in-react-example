@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thinking-in-react-example/static/css/main.0a57d493.chunk.css",
+    "main.js": "/thinking-in-react-example/static/js/main.8213a67a.chunk.js",
+    "main.js.map": "/thinking-in-react-example/static/js/main.8213a67a.chunk.js.map",
+    "runtime-main.js": "/thinking-in-react-example/static/js/runtime-main.adff376a.js",
+    "runtime-main.js.map": "/thinking-in-react-example/static/js/runtime-main.adff376a.js.map",
+    "static/js/2.d1bd9a86.chunk.js": "/thinking-in-react-example/static/js/2.d1bd9a86.chunk.js",
+    "static/js/2.d1bd9a86.chunk.js.map": "/thinking-in-react-example/static/js/2.d1bd9a86.chunk.js.map",
+    "index.html": "/thinking-in-react-example/index.html",
+    "static/css/main.0a57d493.chunk.css.map": "/thinking-in-react-example/static/css/main.0a57d493.chunk.css.map",
+    "static/js/2.d1bd9a86.chunk.js.LICENSE.txt": "/thinking-in-react-example/static/js/2.d1bd9a86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adff376a.js",
+    "static/js/2.d1bd9a86.chunk.js",
+    "static/css/main.0a57d493.chunk.css",
+    "static/js/main.8213a67a.chunk.js"
+  ]
+}
